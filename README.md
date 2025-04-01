@@ -44,8 +44,8 @@ Number Guessing Game is an interactive Python program where the computer randoml
 
 
 ## Demo
-![Number Guessing Game Demo](https://imgur.com/a/ap7CLRM)
-[Number Guessing Game Demo](https://imgur.com/a/ap7CLRM)
+![Number Guessing Game Demo](https://i.imgur.com/Vi9N5gD.gif)
+[Number Guessing Game Demo](https://i.imgur.com/Vi9N5gD.gif)
 
 ## License
 
